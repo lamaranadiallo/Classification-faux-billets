@@ -63,19 +63,15 @@ Ce projet démontre l'utilisation de techniques d'apprentissage automatique pour
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-depot.git
+   git clone https://github.com/Classification-faux-billets.git
    ```
 
 2. Installez les dépendances :
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
 3. Exécutez le notebook Jupyter pour suivre l'analyse pas à pas :
    ```bash
    jupyter notebook Detection_faux_billets_code.ipynb
    ```
-
-## Auteurs
-
-Ce projet a été réalisé par Lamarana DIALLO, un passionné de data science et d'analyse prédictive.
